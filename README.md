@@ -74,46 +74,46 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 - ✅Ekibin eksilerini eğitimler ile tamamlamak
 **GÖREV TAMAMLANDI** [Scrum Eğitimi] (https://docdro.id/zps3UwW) [Tasarım Eğitimi] (https://docdro.id/zps3UwW)
 - ✅Userflow tamamlanacak
-**GÖREV TAMAMLANDI** [UserFlow] ()
+**GÖREV TAMAMLANDI** [UserFlow] (https://www.figma.com/file/cVBOHeQxMwPmYuO7kF6vLb/Beyza-User-Flow)
 #### **📅Daily Scrum**
 
  ##### **Daily 1️⃣#** <br/>
 -**Sude:** <br/>
   -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
-  -Bugün ne yapacağım?: *Scrum Eğitimine Katılacağım* <br/>
+  -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
   -Önümdeki Engeller ne?: *-* <br/>
 -**Beyza:** <br/>
   -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *-* <br/>
 -**Hüsna:** <br/>
   -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
   ##### **Daily 2️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
+  -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
+  -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
+  -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
   ##### **Daily 3️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
+  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım* <br/>
   -Bugün ne yapacağım?: ** <br/>
   -Önümdeki Engeller ne?: ** <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
+  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım* <br/>
   -Bugün ne yapacağım?: ** <br/>
   -Önümdeki Engeller ne?: ** <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
+  -Dün ne yaptım?: *Tasarım Eğitimine Katılacağım* <br/>
   -Bugün ne yapacağım?: ** <br/>
   -Önümdeki Engeller ne?: ** <br/>
   ##### **Daily 4️⃣#** <br/>
