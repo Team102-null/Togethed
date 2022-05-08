@@ -1,6 +1,6 @@
 ![Togethed Logo](https://i.ibb.co/pX3k83r/Minimal-Pastel-Aestetic-Vaporwave-1.png)
 # **TOGETHED**
-
+Teslimatlar DEFİNİTİON OF DONE bölümünde yer almaktadır.
 ## **Tanıtım**
 
 Selamlar, biz Takım 102'yiz. Uygulamamız Togethed etkinlikler için bir sosyal medya platformudur <br/>
@@ -58,18 +58,23 @@ Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve user flow görevlerini alarak takım koordinasyonuna yoğunlaşmaya karar verdik. Gelecek haftalara kod ve tasarım yükü artmış olsa da eğitim ve oryantasyon olmadan bu konulara giriş yapmama kararı uygun görüldü. Ayrıca bu zaman diliminin oryantasyon ve fikir üzerine geçmesi gelecek haftalardaki çalışma hızını artıracaktır. Ayrıca bayram tatili nedeniyle görevlerin kesik devamı engellenecektir.
   #### **📜Splint İş Listesi**
- - Boot Görevleri
+ - Boot Görevleri (25p @all)
  - Marka Tasarımı (15p @all @hüsna)
  - İş Planı (15p @all @sena @sude)
  - User Flow (20p @all @beyza @yücel)
 
 
   #### **✅Definition of Done Teslim Tarihi 08.05.2022 23:59**
-- ✅Kapsamlı bir iş planına sahip olmak
+- ✅Yapılacak projeyi seçmek 
+**GÖREV TAMAMLANDI** Togethed projesi seçildi. Detaylar branding ve iş planında mevcut.
+- ✅Kapsamlı bir iş planına sahip olmak 
+**GÖREV TAMAMLANDI** [İş Planı] (https://docdro.id/3NcDQKj)
 - ✅Kapsamlı bir marka oluşturmak
+**GÖREV TAMAMLANDI** [Marka Tasarımı] (https://www.notion.so/selahattinyucelsafak/Branding-f7f51beaf72544b8805513a0756b1da9)
 - ✅Ekibin eksilerini eğitimler ile tamamlamak
+**GÖREV TAMAMLANDI** [Scrum Eğitimi] (https://docdro.id/zps3UwW) [Tasarım Eğitimi] (https://docdro.id/zps3UwW)
 - ✅Userflow tamamlanacak
-
+**GÖREV TAMAMLANDI** [UserFlow] ()
 #### **📅Daily Scrum**
 
  ##### **Daily 1️⃣#** <br/>
