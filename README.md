@@ -25,20 +25,33 @@ Ekip üyelerimiz altta yer almaktadır;
 Bu metinde uygulamayı yaparken kullandığımız scrum çercevesi ile kat ettiğimiz ilerleme anlatılmaktadır. Ayrıca her splint sonu elde edilen çıktılar sunulmaktadır. Süreç sonunda uygulama bu sayfada tamamlanmış hali ile paylaşılacaktır. Misyon, vizyon, marka tasarımı gibi birçok detaya aşağıdaki splint çıktılarından erişmeniz mümkündür.
 
 ## **Scrum**
-Biz scrum ilkelerini benimsiyor ve çevik çalışma
+Takım olarak çevik metodolojileri benimsiyor ve scrum çercevesinde çalışıyoruz. Aşagıda ürün iş listemizi ve splitlerdeki faaliyetleri görüntüleyebilirsiniz.
 ### **Ürün İş Listesi**
+Togethed İçin toplantıda belirlenen ürün iş listesi şu şekildedir.
+-**Araştırma Görevleri** Bu görevler ekip tarafından araştırılması beklenilen görevlerdir. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
+  - Endistüriyel Sektörlerin Araştırılması (
+  - 
+-**Mini Bootcampler** Bu görevler ekip tarafından uygulamaya eklenecek özelliklerin özellikleri önden deneyecekleri mini time-boxed görevlendirmelerdir. Splint sonu beklentisini etkilemez. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
 
-### **Splint 1**
+-**Hedef Görevleri** Bu görevler teslimatları hazırlamak için olan görevlerdir. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
+
+
+
+
+### **🏁Splint 1🏁**
 
   #### **🤝🏻Splint Planlama Toplantısı**
 
   #### **📜Splint İş Listesi**
 
   #### **✅Definition of Done**
-
+- Kapsamlı bir iş planına sahip olmak
+- Kapsamlı bir marka oluşturmak
+- Ekibin flutter ve tasarım ile ilgili eksilerini eğitimler ile tamamlamak
+- 
   #### **📅Daily Scrum**
 
-  ##### **Daily 1#** <br/>
+  ##### **Daily 1️⃣#** <br/>
 -**Sude:** <br/>
   -Dün ne yaptım?: ** <br/>
   -Bugün ne yapacağım?: ** <br/>
@@ -51,19 +64,19 @@ Biz scrum ilkelerini benimsiyor ve çevik çalışma
   -Dün ne yaptım?: ** <br/>
   -Bugün ne yapacağım?: ** <br/>
   -Önümdeki Engeller ne?: ** <br/>
-  ##### **Daily 2#** <br/>
-  ##### **Daily 3#** <br/>
-  ##### **Daily 4#** <br/>
-  ##### **Daily 5#** <br/>
-  ##### **Daily 6#** <br/>
-  ##### **Daily 7#** <br/>
-  ##### **Daily 8#** <br/>
-  ##### **Daily 9#** <br/>
-  ##### **Daily 10#** <br/>
-  ##### **Daily 11#** <br/>
-  ##### **Daily 12#** <br/>
-  ##### **Daily 13#** <br/>
-  ##### **Daily 14#** <br/>
+  ##### **Daily 2️⃣#** <br/>
+  ##### **Daily 3️⃣#** <br/>
+  ##### **Daily 4️⃣#** <br/>
+  ##### **Daily 5️⃣#** <br/>
+  ##### **Daily 6️⃣#** <br/>
+  ##### **Daily 7️⃣#** <br/>
+  ##### **Daily 8️⃣#** <br/>
+  ##### **Daily 9️⃣#** <br/>
+  ##### **Daily 1️⃣0️⃣#** <br/>
+  ##### **Daily 1️⃣1️⃣#** <br/>
+  ##### **Daily 1️⃣2️⃣#** <br/>
+  ##### **Daily 1️⃣3️⃣#** <br/>
+  ##### **Daily 1️⃣4️⃣#** <br/>
   
   #### **Retrospektif Toplantısı**
   
