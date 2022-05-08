@@ -11,13 +11,15 @@ Bu platformda 3 temel özellik ile organizatörleri ve katılımcıları bir ara
 
 ## **Ekip Üyeleri**
 Ekip üyelerimiz altta yer almaktadır;
-- **Product Owner** Nur Sena Polat
-- **Scrum Master** Selahattin Yücel Şafak
-- **UI/UX Designer** Beyza Nur Haydar
-- **Flutter Developer 1** Hatice Sude Yıldız
-- **Flutter Developer 2** Hüsna Arslan
-- 
+- **Product Owner**: Nur Sena Polat [✋💼](https://www.linkedin.com/in/nursenapolat/)
+- **Scrum Master**: Selahattin Yücel Şafak [✋💼](https://www.linkedin.com/in/selahattinyucelsafak/)
+- **UI/UX Designer**: Beyza Nur Haydar [✋💼](https://www.linkedin.com/in/beyzanurhaydar4/)
+- **Flutter Developer 1**: Hatice Sude Yıldız [✋💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
+- **Flutter Developer 2**: Hüsna Arslan [✋💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
 
+## **Bizi Takip Edin**
+[LinkedIn](https://www.linkedin.com/company/togethed)
+[Instagram](https://www.linkedin.com/company/togethed)
 ## **İçerik**
 Bu metinde uygulamayı yaparken kullandığımız scrum çercevesi ile kat ettiğimiz ilerleme anlatılmaktadır. Ayrıca her splint sonu elde edilen çıktılar sunulmaktadır. Süreç sonunda uygulama bu sayfada tamamlanmış hali ile paylaşılacaktır. Misyon, vizyon, marka tasarımı gibi birçok detaya aşağıdaki splint çıktılarından erişmeniz mümkündür.
 
