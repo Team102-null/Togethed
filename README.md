@@ -72,7 +72,7 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 - ✅Kapsamlı bir marka oluşturmak
 **GÖREV TAMAMLANDI** [Marka Tasarımı] (https://www.notion.so/selahattinyucelsafak/Branding-f7f51beaf72544b8805513a0756b1da9)
 - ✅Ekibin eksilerini eğitimler ile tamamlamak
-**GÖREV TAMAMLANDI** [Scrum Eğitimi] (https://docdro.id/zps3UwW) [Tasarım Eğitimi] (https://docdro.id/zps3UwW)
+**GÖREV TAMAMLANDI** [Scrum Eğitimi] (https://docdro.id/zps3UwW) [Tasarım Eğitimi] (https://docdro.id/fOigIHY)
 - ✅Userflow tamamlanacak
 **GÖREV TAMAMLANDI** [UserFlow] (https://www.figma.com/file/cVBOHeQxMwPmYuO7kF6vLb/Beyza-User-Flow)
 #### **📅Daily Scrum**
