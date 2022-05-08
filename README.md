@@ -52,7 +52,7 @@ Togethed İçin toplantıda belirlenen ürün iş listesi şu şekildedir.
 
 
 
-
+--------------------------------
 ### **🏁Splint 1🏁**
 Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
@@ -184,5 +184,20 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 ☀️TATİL
   
   #### **Retrospektif Toplantısı**
-  
+  Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
+- ##### **Neler İyi Gitti**
+  -  Ekip enerjisi ve motivasyonu harikaydı.
+  -  Seçtiğimiz proje çok büyük bir gelecek vaad ediyor.
+  -  Vizyon ve misyonlarımız hepimizin ortak noktasını yansıtıyor.
+  -  Marka tasarımına bu kadar önem vermek proje bitince kitlemizin hazır olmasını sağlayacak
+- ##### **Neler Kötü Gitti**
+  - Bayram tatilinin araya girmesi iletişim kopukluğu ve zaman kaybına neden oldu. Takım koordinasyonu geri sağlamakta zorlandı.
+  - Teslimatlar son dakika yetiştirildi.
+  - Takımın bir araya gelmesi ve splintin başlaması 3 günde gerçekleşti.
+  - Takım atamaları sorunlu olduğu için takım ataması çok geç yapıldı. Oryantasyon splint içine kaldı.
+- ##### **Neler Geliştirilebilir**
+  - Zaman yönetimini geliştirilmeli
+  - Görevler tek koldan yürümemeli
+  - İterasyon döngüsü güçlendirilmeli
   #### **Splint Sonu**
+  --------------------------------
