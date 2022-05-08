@@ -11,11 +11,11 @@ Bu platformda 3 temel özellik ile organizatörleri ve katılımcıları bir ara
 
 ## **Ekip Üyeleri**
 Ekip üyelerimiz altta yer almaktadır;
-- **Product Owner**: Nur Sena Polat [✋💼](https://www.linkedin.com/in/nursenapolat/)
-- **Scrum Master**: Selahattin Yücel Şafak [✋💼](https://www.linkedin.com/in/selahattinyucelsafak/)
-- **UI/UX Designer**: Beyza Nur Haydar [✋💼](https://www.linkedin.com/in/beyzanurhaydar4/)
-- **Flutter Developer 1**: Hatice Sude Yıldız [✋💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
-- **Flutter Developer 2**: Hüsna Arslan [✋💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
+- **Product Owner**: Nur Sena Polat [✋LinkedIn💼](https://www.linkedin.com/in/nursenapolat/)
+- **Scrum Master**: Selahattin Yücel Şafak [✋LinkedIn💼](https://www.linkedin.com/in/selahattinyucelsafak/)
+- **UI/UX Designer**: Beyza Nur Haydar [✋LinkedIn💼](https://www.linkedin.com/in/beyzanurhaydar4/)
+- **Flutter Developer 1**: Hatice Sude Yıldız [✋LinkedIn💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
+- **Flutter Developer 2**: Hüsna Arslan [✋LinkedIn💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
 
 ## **Bizi Takip Edin**
 [🌐Web Sitesi](www.togethed.com)
@@ -79,15 +79,15 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 
  ##### **Daily 1️⃣#** <br/>
 -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
+  -Bugün ne yapacağım?: *Scrum Eğitimine Katılacağım* <br/>
+  -Önümdeki Engeller ne?: *-* <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
+  -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
   -Bugün ne yapacağım?: ** <br/>
   -Önümdeki Engeller ne?: ** <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
+  -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
   -Bugün ne yapacağım?: ** <br/>
   -Önümdeki Engeller ne?: ** <br/>
   ##### **Daily 2️⃣#** <br/>
