@@ -81,67 +81,67 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 -**Sude:** <br/>
   -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
   -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *-* <br/>
+  -Önümdeki Engeller ne?: *"Toplantılar ile ilgili zaman sorunum var"* <br/>
 -**Beyza:** <br/>
   -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
   -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *-* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Hüsna:** <br/>
   -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
   -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
+  -Önümdeki Engeller ne?: *"Scrumın kapsamını anlamadım"* <br/>
   ##### **Daily 2️⃣#** <br/>
   -**Sude:** <br/>
   -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
   -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
+  -Önümdeki Engeller ne?: *"Tasarımın bir günde öğrenileceğini düşünmüyorum"* <br/>
 -**Beyza:** <br/>
   -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
+  -Bugün ne yapacağım?: *"Tasarım Eğitimi Vereceğim"* <br/>
+  -Önümdeki Engeller ne?: *"Tasarım odaklı düşünceye dair sunum hazırlamam gerekiyor"* <br/>
 -**Hüsna:** <br/>
   -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
   -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
   -Önümdeki Engeller ne?: *"-"* <br/>
   ##### **Daily 3️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım tasarım ilkelerini öğrendim* <br/>
+  -Bugün ne yapacağım?: *"İş planı mini bootcampine katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"Zaman Kısıtı"* <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *Tasarım Eğitimini Verdim verimli geçti <br/>
+  -Bugün ne yapacağım?: *"İş planı mini bootcampine katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: *Tasarım Eğitimine Katılacağım* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım* <br/>
+  -Bugün ne yapacağım?: *"İş planı mini bootcampine katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"Teknik Bilgi Yoğunluğu"* <br/>
   ##### **Daily 4️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"İş planı mini bootcampine katıldım ve bir odaklanma uygulaması iş planı ürettim"* <br/>
+  -Bugün ne yapacağım?: *"İş Planınu hazırlayacağız"* <br/>
+  -Önümdeki Engeller ne?: *"İş yoğunluğu"* <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"İş planı mini bootcampine katıldım ve bir para tasarruf uygulaması iş planı ürettim"* <br/>
+  -Bugün ne yapacağım?: *"İş Planınu hazırlayacağız"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"İş planı mini bootcampine katıldım ve bir 3 boyutlu mağaza uygulaması iş planı ürettim"* <br/>
+  -Bugün ne yapacağım?: *"İş Planınu hazırlayacağız"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
   ##### **Daily 5️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
+  -Dün ne yaptım?: *"İş Planınu hazırlayadık"* <br/>
+  -Bugün ne yapacağım?: *"Branding mini boot campine katılacağım"* <br/>
   -Önümdeki Engeller ne?: ** <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"İş Planınu hazırlayadık"* <br/>
+  -Bugün ne yapacağım?: *"Branding mini boot campini tasarlayacağım"* <br/>
+  -Önümdeki Engeller ne?: *Basit bir anlatımla talimat yazacağım bu biraz zorlayabilir* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"İş Planınu hazırlayadık"* <br/>
+  -Bugün ne yapacağım?: *"Branding mini boot campine katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *Kullanacağım araçları bilmiyorum* <br/>
   ##### **Daily 6️⃣#** <br/>
 ☀️TATİL
   ##### **Daily 7️⃣#** <br/>
@@ -154,30 +154,30 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 ☀️TATİL
   ##### **Daily 1️⃣1️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Branding mini bootcampine katıldım vaka çalışmam üzerine branding yaptım"* <br/>
+  -Bugün ne yapacağım?: *"-"* <br/>
+  -Önümdeki Engeller ne?: *"Bayram tatili sebebiyle şehrime dönemedim çalışamayacağım"* <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Branding mini bootcampini yönettim vaka çalışmam üzerine branding yaptım diğer vaka çalışmalarını değerlendirip eksik noktaları ile ilgili geri dönüş verdim."* <br/>
+  -Bugün ne yapacağım?: *"Togethed için branding çalışmasını tamamlayacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Branding mini bootcampine katıldım vaka çalışmam üzerine branding yaptım"* <br/>
+  -Bugün ne yapacağım?: *"Togethed için branding çalışmasını tamamlayacağım"* <br/>
+  -Önümdeki Engeller ne?: *Beyza kadar tasarıma hakim değilim ancak elimden geleni yapmaya çalışacağım* <br/>
   ##### **Daily 1️⃣2️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"-"* <br/>
+  -Bugün ne yapacağım?: *"Userflow çalışmasına katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *UX Tasarıma hakim değilim* <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *a* <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Togethed brandingini tamamladım"* <br/>
+  -Bugün ne yapacağım?: *"Userflow çalışmasına katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: ** <br/>
-  -Bugün ne yapacağım?: ** <br/>
-  -Önümdeki Engeller ne?: ** <br/>
+  -Dün ne yaptım?: *"Branding konusunda beyzaya yardımcı oldum"* <br/>
+  -Bugün ne yapacağım?: *"Userflow çalışmasına katılacağım"* <br/>
+  -Önümdeki Engeller ne?: *"-"* <br/>
   ##### **Daily 1️⃣3️⃣#** <br/>
 ☀️TATİL
   ##### **Daily 1️⃣4️⃣#** <br/>
