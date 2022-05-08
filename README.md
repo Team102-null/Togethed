@@ -131,15 +131,15 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
   -Önümdeki Engeller ne?: *"-"* <br/>
   ##### **Daily 5️⃣#** <br/>
   -**Sude:** <br/>
-  -Dün ne yaptım?: *"İş Planınu hazırlayadık"* <br/>
+  -Dün ne yaptım?: *"İş Planınu hazırlayacağım"* <br/>
   -Bugün ne yapacağım?: *"Branding mini boot campine katılacağım"* <br/>
   -Önümdeki Engeller ne?: ** <br/>
 -**Beyza:** <br/>
-  -Dün ne yaptım?: *"İş Planınu hazırlayadık"* <br/>
+  -Dün ne yaptım?: *"İş Planınu hazırlacağım"* <br/>
   -Bugün ne yapacağım?: *"Branding mini boot campini tasarlayacağım"* <br/>
   -Önümdeki Engeller ne?: *Basit bir anlatımla talimat yazacağım bu biraz zorlayabilir* <br/>
 -**Hüsna:** <br/>
-  -Dün ne yaptım?: *"İş Planınu hazırlayadık"* <br/>
+  -Dün ne yaptım?: *"İş Planınu hazırlacağım"* <br/>
   -Bugün ne yapacağım?: *"Branding mini boot campine katılacağım"* <br/>
   -Önümdeki Engeller ne?: *Kullanacağım araçları bilmiyorum* <br/>
   ##### **Daily 6️⃣#** <br/>
