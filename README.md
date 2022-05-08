@@ -1,1 +1,3 @@
-# Team-102-null-app
+Togethed App Scrum Çıktıları
+afsadasf
+asfsafsaffs
