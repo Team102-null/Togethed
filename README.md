@@ -30,7 +30,7 @@ Takım olarak çevik metodolojileri benimsiyor ve scrum çercevesinde çalışı
 Togethed İçin toplantıda belirlenen ürün iş listesi şu şekildedir.
 -**Araştırma Görevleri** Bu görevler ekip tarafından araştırılması beklenilen görevlerdir. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
   - Endistüriyel Sektörlerin Araştırılması (
-  - 
+  - Etkinlik uygulamalarının Araştırılması (
 -**Mini Bootcampler** Bu görevler ekip tarafından uygulamaya eklenecek özelliklerin özellikleri önden deneyecekleri mini time-boxed görevlendirmelerdir. Splint sonu beklentisini etkilemez. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
 
 -**Hedef Görevleri** Bu görevler teslimatları hazırlamak için olan görevlerdir. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
@@ -48,10 +48,12 @@ Togethed İçin toplantıda belirlenen ürün iş listesi şu şekildedir.
 - Kapsamlı bir iş planına sahip olmak
 - Kapsamlı bir marka oluşturmak
 - Ekibin flutter ve tasarım ile ilgili eksilerini eğitimler ile tamamlamak
-- 
-  #### **📅Daily Scrum**
+- Userflow tamamlanacak
+- Wireframe Tamamlanack
 
-  ##### **Daily 1️⃣#** <br/>
+#### **📅Daily Scrum**
+
+ ##### **Daily 1️⃣#** <br/>
 -**Sude:** <br/>
   -Dün ne yaptım?: ** <br/>
   -Bugün ne yapacağım?: ** <br/>
