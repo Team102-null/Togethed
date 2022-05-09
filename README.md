@@ -79,6 +79,8 @@ Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve user flow görevlerini alarak takım koordinasyonuna yoğunlaşmaya karar verdik. Gelecek haftalara kod ve tasarım yükü artmış olsa da eğitim ve oryantasyon olmadan bu konulara giriş yapmama kararı uygun görüldü. Ayrıca bu zaman diliminin oryantasyon ve fikir üzerine geçmesi gelecek haftalardaki çalışma hızını artıracaktır. Ayrıca bayram tatili nedeniyle görevlerin kesik devamı engellenecektir.
   #### **📜Splint İş Listesi**
+  ![Adsız tasarım (1)](https://user-images.githubusercontent.com/101826260/167490567-2ec21dc5-630e-4c01-9b1a-7673e6629685.jpg)
+
 [Trello Panomuz](https://trello.com/invite/b/nVWdZZfo/61da17e4d8191d2e0e5850e91b0970c9/splint-1)
  Toplam Puan: Trello panomuzda da görüldüğü üzere 75 olarak belirlenmiştir. Bu hafta çalışmaların çoğu ekibin tüm üyelerini kapsamıştır. Bu sebeple tüm üyeler için eşdeğer miktarda süreye mal olmuştur. Ek olarak görev sorumluları görevlerin yanında belirtilmiştir. Puanlamalar saat cinsindendir. Bahsi geçen görevin hazırlığı ve brainstorm aşamalarını da kapsar.
  - Boot Görevleri (25p @all)
