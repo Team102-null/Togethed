@@ -102,14 +102,14 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 **GÖREV TAMAMLANDI** [UserFlow] (https://app.flowmapp.com/share/d55d8de8578c3e6e6ee5987e81d8cffc/userflow/188540/)
 
 #### **📅Daily Scrum**
-Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplanı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri ekte [burada](https://github.com/Team102-null/Togethed/files/8653749/Splint.1.Daily.pdf) mevcut.
-#### **Splint Review**
+Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada](https://github.com/Team102-null/Togethed/files/8653749/Splint.1.Daily.pdf) mevcut.
+#### **📏Splint Review**
 Review toplantısında üretilen değerin yeni bir marka ve pazarlama planı olduğuna ek olarak ürünün temel özelliklerinin tasarlandığına karar verildi. Bu değer şuan için ürüne katkısı yokmuş gibi görünse marka tasarımı bizi her zaman öne taşıyacaktır cümlesi review toplantısında benimsendi. Ayrıca gözden geçirme süreci de ele alındı. Ekteki sorunlar tespit edildi ve çözümlendi:
 - User Flow çalışmasında sorunlar oluştu ancak düzenlendi
 - Vizyon ve Misyon kapsamı genişletildi
 - Ürün iş listesi güncellendi
 
-#### **Retrospektif Toplantısı**
+#### **⚖️Retrospektif Toplantısı**
   Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
 - ##### **Neler İyi Gitti**
   -  Ekip enerjisi ve motivasyonu harikaydı.
