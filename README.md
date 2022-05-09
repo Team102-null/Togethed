@@ -17,7 +17,9 @@ Togethed
 Togethed etkinlik ve organizasyonları katılımcılar ile doğru şekilde buluşturmayı hedefleyen bir sosyal medya platformudur. <br/>
 ## **Ürünün Gelişimi**
 Bu kısımda uygulamamızın gelişimini göstermek adına ekran görüntüleri paylaşılmaktadır.
-![Adsız tasarım](https://user-images.githubusercontent.com/101826260/167484938-29f6fee9-cc99-4e4f-8a43-61a72d6fa5c4.jpg)
+![Giriş Ekranı](https://user-images.githubusercontent.com/101826260/167484938-29f6fee9-cc99-4e4f-8a43-61a72d6fa5c4.jpg)
+![Homepage](https://user-images.githubusercontent.com/101826260/167493870-97ce05c5-6c2a-4a57-934e-4b010e2656e8.png)
+
 ## **Özellikler**
 - (INPUT) Etkinlik oluşturuma
 - (PROCESS) Etkinlik filtreleme
