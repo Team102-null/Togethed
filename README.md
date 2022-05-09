@@ -1,13 +1,7 @@
-![Togethed Logo](https://i.ibb.co/pX3k83r/Minimal-Pastel-Aestetic-Vaporwave-1.png)
+![Minimal Pastel Aestetic Vaporwave (1)](https://user-images.githubusercontent.com/101826260/167450930-43d7efb7-9efc-4450-ae98-9f6efb02564f.png)
+
 # **TOGETHED**
 Teslimatlar DEFİNİTİON OF DONE bölümünde yer almaktadır.
-## **Tanıtım**
-
-Selamlar, biz Takım 102'yiz. Uygulamamız Togethed etkinlikler için bir sosyal medya platformudur <br/>
-Bu platformda 3 temel özellik ile organizatörleri ve katılımcıları bir araya getirmek istiyoruz. Bu özellikler şunlardır;
-- (INPUT) Etkinlik oluşturuma
-- (PROCESS) Etkinlik filtreleme
-- (OUTPUT) Etkinliklerin sunulduğu anasayfa
 
 ## **Ekip Üyeleri**
 Ekip üyelerimiz altta yer almaktadır;
@@ -17,10 +11,35 @@ Ekip üyelerimiz altta yer almaktadır;
 - **Flutter Developer 1**: Hatice Sude Yıldız [✋LinkedIn💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
 - **Flutter Developer 2**: Hüsna Arslan [✋LinkedIn💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
 
+## **Ürün İsmi**
+
+## **Ürün Açıklaması**
+Togethed etkinlik ve organizasyonları katılımcılar ile doğru şekilde buluşturmayı hedefleyen bir sosyal medya platformudur. <br/>
+
+
+## **Özellikler**
+- (INPUT) Etkinlik oluşturuma
+- (PROCESS) Etkinlik filtreleme
+- (OUTPUT) Etkinliklerin sunulduğu anasayfa
+
+## **Hedef Kitle**
+Togethed'ın 2 ayrı hedef kitlesi mevcuttur.
+- Organiztörler
+  - 20-45 yaş arası
+  - Erkek ağırlıklı
+  - Etkinlik ve organizasyon düzenleyen
+  - Organizatör kariyerini seçmiş
+- Katılımcılar
+  - 18-50 yaş arası
+  - Eşit oranda cinsiyet
+  - Sosyal bağları güçlü
+  - Proaktif
+  - Gelişim odaklı
 ## **Bizi Takip Edin**
 [🌐Web Sitesi](www.togethed.com)
 [💼LinkedIn](https://www.linkedin.com/company/togethed)
 [📸Instagram](https://www.instagram.com/togethed/)
+
 ## **İçerik**
 Bu metinde uygulamayı yaparken kullandığımız scrum çercevesi ile kat ettiğimiz ilerleme anlatılmaktadır. Ayrıca her splint sonu elde edilen çıktılar sunulmaktadır. Süreç sonunda uygulama bu sayfada tamamlanmış hali ile paylaşılacaktır. Misyon, vizyon, marka tasarımı gibi birçok detaya aşağıdaki splint çıktılarından erişmeniz mümkündür.
 
@@ -58,6 +77,7 @@ Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve user flow görevlerini alarak takım koordinasyonuna yoğunlaşmaya karar verdik. Gelecek haftalara kod ve tasarım yükü artmış olsa da eğitim ve oryantasyon olmadan bu konulara giriş yapmama kararı uygun görüldü. Ayrıca bu zaman diliminin oryantasyon ve fikir üzerine geçmesi gelecek haftalardaki çalışma hızını artıracaktır. Ayrıca bayram tatili nedeniyle görevlerin kesik devamı engellenecektir.
   #### **📜Splint İş Listesi**
+ Toplam Puan: 75
  - Boot Görevleri (25p @all)
  - Marka Tasarımı (15p @all @hüsna)
  - İş Planı (15p @all @sena @sude)
@@ -74,114 +94,11 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 - ✅Ekibin eksilerini eğitimler ile tamamlamak
 **GÖREV TAMAMLANDI** [Scrum Eğitimi] (https://docdro.id/zps3UwW) [Tasarım Eğitimi] (https://docdro.id/fOigIHY)
 - ✅Userflow tamamlanacak
-**GÖREV TAMAMLANDI** [UserFlow] (https://www.figma.com/file/cVBOHeQxMwPmYuO7kF6vLb/Beyza-User-Flow)
+**GÖREV TAMAMLANDI** [UserFlow] (https://app.flowmapp.com/share/d55d8de8578c3e6e6ee5987e81d8cffc/userflow/188540/)
 #### **📅Daily Scrum**
+[Splint 1 Daily.pdf](https://github.com/Team102-null/Togethed/files/8653749/Splint.1.Daily.pdf)
 
- ##### **Daily 1️⃣#** <br/>
--**Sude:** <br/>
-  -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"Toplantılar ile ilgili zaman sorunum var"* <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *"Ürün Planalama Toplantısına Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Scrum Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"Scrumın kapsamını anlamadım"* <br/>
-  ##### **Daily 2️⃣#** <br/>
-  -**Sude:** <br/>
-  -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"Tasarımın bir günde öğrenileceğini düşünmüyorum"* <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Tasarım Eğitimi Vereceğim"* <br/>
-  -Önümdeki Engeller ne?: *"Tasarım odaklı düşünceye dair sunum hazırlamam gerekiyor"* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *"Scrum Eğitimine Katıldım"* <br/>
-  -Bugün ne yapacağım?: *"Tasarım Eğitimine Katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
-  ##### **Daily 3️⃣#** <br/>
-  -**Sude:** <br/>
-  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım tasarım ilkelerini öğrendim* <br/>
-  -Bugün ne yapacağım?: *"İş planı mini bootcampine katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"Zaman Kısıtı"* <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *Tasarım Eğitimini Verdim verimli geçti <br/>
-  -Bugün ne yapacağım?: *"İş planı mini bootcampine katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *Tasarım Eğitimine Katıldım* <br/>
-  -Bugün ne yapacağım?: *"İş planı mini bootcampine katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"Teknik Bilgi Yoğunluğu"* <br/>
-  ##### **Daily 4️⃣#** <br/>
-  -**Sude:** <br/>
-  -Dün ne yaptım?: *"İş planı mini bootcampine katıldım ve bir odaklanma uygulaması iş planı ürettim"* <br/>
-  -Bugün ne yapacağım?: *"İş Planınu hazırlayacağız"* <br/>
-  -Önümdeki Engeller ne?: *"İş yoğunluğu"* <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *"İş planı mini bootcampine katıldım ve bir para tasarruf uygulaması iş planı ürettim"* <br/>
-  -Bugün ne yapacağım?: *"İş Planınu hazırlayacağız"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *"İş planı mini bootcampine katıldım ve bir 3 boyutlu mağaza uygulaması iş planı ürettim"* <br/>
-  -Bugün ne yapacağım?: *"İş Planınu hazırlayacağız"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
-  ##### **Daily 5️⃣#** <br/>
-  -**Sude:** <br/>
-  -Dün ne yaptım?: *"İş Planınu hazırlayacağım"* <br/>
-  -Bugün ne yapacağım?: *"Branding mini boot campine katılacağım"* <br/>
-  -Önümdeki Engeller ne?: ** <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *"İş Planınu hazırlacağım"* <br/>
-  -Bugün ne yapacağım?: *"Branding mini boot campini tasarlayacağım"* <br/>
-  -Önümdeki Engeller ne?: *Basit bir anlatımla talimat yazacağım bu biraz zorlayabilir* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *"İş Planınu hazırlacağım"* <br/>
-  -Bugün ne yapacağım?: *"Branding mini boot campine katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *Kullanacağım araçları bilmiyorum* <br/>
-  ##### **Daily 6️⃣#** <br/>
-☀️TATİL
-  ##### **Daily 7️⃣#** <br/>
-☀️TATİL
-  ##### **Daily 8️⃣#** <br/>
-☀️TATİL
-  ##### **Daily 9️⃣#** <br/>
-☀️TATİL
-  ##### **Daily 1️⃣0️⃣#** <br/>
-☀️TATİL
-  ##### **Daily 1️⃣1️⃣#** <br/>
-  -**Sude:** <br/>
-  -Dün ne yaptım?: *"Branding mini bootcampine katıldım vaka çalışmam üzerine branding yaptım"* <br/>
-  -Bugün ne yapacağım?: *"-"* <br/>
-  -Önümdeki Engeller ne?: *"Bayram tatili sebebiyle şehrime dönemedim çalışamayacağım"* <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *"Branding mini bootcampini yönettim vaka çalışmam üzerine branding yaptım diğer vaka çalışmalarını değerlendirip eksik noktaları ile ilgili geri dönüş verdim."* <br/>
-  -Bugün ne yapacağım?: *"Togethed için branding çalışmasını tamamlayacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *"Branding mini bootcampine katıldım vaka çalışmam üzerine branding yaptım"* <br/>
-  -Bugün ne yapacağım?: *"Togethed için branding çalışmasını tamamlayacağım"* <br/>
-  -Önümdeki Engeller ne?: *Beyza kadar tasarıma hakim değilim ancak elimden geleni yapmaya çalışacağım* <br/>
-  ##### **Daily 1️⃣2️⃣#** <br/>
-  -**Sude:** <br/>
-  -Dün ne yaptım?: *"-"* <br/>
-  -Bugün ne yapacağım?: *"Userflow çalışmasına katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *UX Tasarıma hakim değilim* <br/>
--**Beyza:** <br/>
-  -Dün ne yaptım?: *"Togethed brandingini tamamladım"* <br/>
-  -Bugün ne yapacağım?: *"Userflow çalışmasına katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
--**Hüsna:** <br/>
-  -Dün ne yaptım?: *"Branding konusunda beyzaya yardımcı oldum"* <br/>
-  -Bugün ne yapacağım?: *"Userflow çalışmasına katılacağım"* <br/>
-  -Önümdeki Engeller ne?: *"-"* <br/>
-  ##### **Daily 1️⃣3️⃣#** <br/>
-☀️TATİL
-  ##### **Daily 1️⃣4️⃣#** <br/>
-☀️TATİL
+
   
   #### **Retrospektif Toplantısı**
   Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
