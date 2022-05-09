@@ -8,7 +8,7 @@ Ekip üyelerimiz altta yer almaktadır;
 - **Product Owner**: Nur Sena Polat [✋LinkedIn💼](https://www.linkedin.com/in/nursenapolat/)
 - **Scrum Master**: Selahattin Yücel Şafak [✋LinkedIn💼](https://www.linkedin.com/in/selahattinyucelsafak/)
 - **UI/UX Designer**: Beyza Nur Haydar [✋LinkedIn💼](https://www.linkedin.com/in/beyzanurhaydar4/)
-- **Flutter Developer 1**: Hatice Sude Yıldız [✋LinkedIn💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
+- **Community Leader**: Hatice Sude Yıldız [✋LinkedIn💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
 - **Flutter Developer 2**: Hüsna Arslan [✋LinkedIn💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
 
 ## **Ürün İsmi**
@@ -46,6 +46,7 @@ Bu metinde uygulamayı yaparken kullandığımız scrum çercevesi ile kat etti�
 ## **Scrum**
 Takım olarak çevik metodolojileri benimsiyor ve scrum çercevesinde çalışıyoruz. Aşagıda ürün iş listemizi ve splitlerdeki faaliyetleri görüntüleyebilirsiniz. Görevlerin yanında puanlar ve kimleri kapsadığı yer almaktadır.
 ### **Ürün İş Listesi**
+
 Togethed İçin toplantıda belirlenen ürün iş listesi şu şekildedir.
 - **Araştırma Görevleri** Bu görevler ekip tarafından araştırılması beklenilen görevlerdir. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
   - Endistüriyel sektörlerin araştırılması (Hangi alanda uygulama yapılacağını seçmek adına yapılan araştırma görevidir.) (4p @all)
@@ -77,6 +78,7 @@ Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve user flow görevlerini alarak takım koordinasyonuna yoğunlaşmaya karar verdik. Gelecek haftalara kod ve tasarım yükü artmış olsa da eğitim ve oryantasyon olmadan bu konulara giriş yapmama kararı uygun görüldü. Ayrıca bu zaman diliminin oryantasyon ve fikir üzerine geçmesi gelecek haftalardaki çalışma hızını artıracaktır. Ayrıca bayram tatili nedeniyle görevlerin kesik devamı engellenecektir.
   #### **📜Splint İş Listesi**
+(Trello Panomuz) [https://trello.com/invite/b/nVWdZZfo/61da17e4d8191d2e0e5850e91b0970c9/splint-1]
  Toplam Puan: 75
  - Boot Görevleri (25p @all)
  - Marka Tasarımı (15p @all @hüsna)
@@ -95,11 +97,9 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 **GÖREV TAMAMLANDI** [Scrum Eğitimi] (https://docdro.id/zps3UwW) [Tasarım Eğitimi] (https://docdro.id/fOigIHY)
 - ✅Userflow tamamlanacak
 **GÖREV TAMAMLANDI** [UserFlow] (https://app.flowmapp.com/share/d55d8de8578c3e6e6ee5987e81d8cffc/userflow/188540/)
+
 #### **📅Daily Scrum**
 [Splint 1 Daily.pdf](https://github.com/Team102-null/Togethed/files/8653749/Splint.1.Daily.pdf)
-
-
-  
   #### **Retrospektif Toplantısı**
   Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
 - ##### **Neler İyi Gitti**
