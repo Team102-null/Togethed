@@ -12,11 +12,12 @@ Ekip üyelerimiz altta yer almaktadır;
 - **Flutter Developer 2**: Hüsna Arslan [✋LinkedIn💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
 
 ## **Ürün İsmi**
-
+Togethed
 ## **Ürün Açıklaması**
 Togethed etkinlik ve organizasyonları katılımcılar ile doğru şekilde buluşturmayı hedefleyen bir sosyal medya platformudur. <br/>
-
-
+## **Ürünün Gelişimi**
+Bu kısımda uygulamamızın gelişimini göstermek adına ekran görüntüleri paylaşılmaktadır.
+![Adsız tasarım](https://user-images.githubusercontent.com/101826260/167484938-29f6fee9-cc99-4e4f-8a43-61a72d6fa5c4.jpg)
 ## **Özellikler**
 - (INPUT) Etkinlik oluşturuma
 - (PROCESS) Etkinlik filtreleme
@@ -78,11 +79,11 @@ Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve user flow görevlerini alarak takım koordinasyonuna yoğunlaşmaya karar verdik. Gelecek haftalara kod ve tasarım yükü artmış olsa da eğitim ve oryantasyon olmadan bu konulara giriş yapmama kararı uygun görüldü. Ayrıca bu zaman diliminin oryantasyon ve fikir üzerine geçmesi gelecek haftalardaki çalışma hızını artıracaktır. Ayrıca bayram tatili nedeniyle görevlerin kesik devamı engellenecektir.
   #### **📜Splint İş Listesi**
-(Trello Panomuz) [https://trello.com/invite/b/nVWdZZfo/61da17e4d8191d2e0e5850e91b0970c9/splint-1]
- Toplam Puan: 75
+[Trello Panomuz](https://trello.com/invite/b/nVWdZZfo/61da17e4d8191d2e0e5850e91b0970c9/splint-1)
+ Toplam Puan: Trello panomuzda da görüldüğü üzere 75 olarak belirlenmiştir. Bu hafta çalışmaların çoğu ekibin tüm üyelerini kapsamıştır. Bu sebeple tüm üyeler için eşdeğer miktarda süreye mal olmuştur. Ek olarak görev sorumluları görevlerin yanında belirtilmiştir. Puanlamalar saat cinsindendir. Bahsi geçen görevin hazırlığı ve brainstorm aşamalarını da kapsar.
  - Boot Görevleri (25p @all)
- - Marka Tasarımı (15p @all @hüsna)
- - İş Planı (15p @all @sena @sude)
+ - Marka Tasarımı (15p @all @sude)
+ - İş Planı (15p @all @sena @hüsna)
  - User Flow (20p @all @beyza @yücel)
 
 
@@ -100,7 +101,13 @@ Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve 
 
 #### **📅Daily Scrum**
 [Splint 1 Daily.pdf](https://github.com/Team102-null/Togethed/files/8653749/Splint.1.Daily.pdf)
-  #### **Retrospektif Toplantısı**
+#### **Splint Review**
+Review toplantısında üretilen değerin yeni bir marka ve pazarlama planı olduğuna ek olarak ürünün temel özelliklerinin tasarlandığına karar verildi. Bu değer şuan için ürüne katkısı yokmuş gibi görünse marka tasarımı bizi her zaman öne taşıyacaktır cümlesi review toplantısında benimsendi. Ayrıca gözden geçirme süreci de ele alındı. Ekteki sorunlar tespit edildi ve çözümlendi:
+- User Flow çalışmasında sorunlar oluştu ancak düzenlendi
+- Vizyon ve Misyon kapsamı genişletildi
+- Ürün iş listesi güncellendi
+
+#### **Retrospektif Toplantısı**
   Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
 - ##### **Neler İyi Gitti**
   -  Ekip enerjisi ve motivasyonu harikaydı.
