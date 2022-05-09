@@ -9,7 +9,7 @@ Ekip üyelerimiz altta yer almaktadır;
 - **Scrum Master**: Selahattin Yücel Şafak [✋LinkedIn💼](https://www.linkedin.com/in/selahattinyucelsafak/)
 - **UI/UX Designer**: Beyza Nur Haydar [✋LinkedIn💼](https://www.linkedin.com/in/beyzanurhaydar4/)
 - **Community Leader**: Hatice Sude Yıldız [✋LinkedIn💼](https://www.linkedin.com/in/hatice-sude-yildiz-03b36421b/)
-- **Flutter Developer 2**: Hüsna Arslan [✋LinkedIn💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
+- **Flutter Developer**: Hüsna Arslan [✋LinkedIn💼](https://www.linkedin.com/in/h%C3%BCsna-arslan-b442201a6/)
 
 ## **Ürün İsmi**
 Togethed
@@ -47,7 +47,7 @@ Bu metinde uygulamayı yaparken kullandığımız scrum çercevesi ile kat etti�
 ## **Scrum**
 Takım olarak çevik metodolojileri benimsiyor ve scrum çercevesinde çalışıyoruz. Aşagıda ürün iş listemizi ve splitlerdeki faaliyetleri görüntüleyebilirsiniz. Görevlerin yanında puanlar ve kimleri kapsadığı yer almaktadır.
 ### **Ürün İş Listesi**
-
+(Trello Panomuz) [https://trello.com/invite/b/LNEYpwR2/841623f6a90d717cc7c5159f2a5a3666/urun-is-listesi]
 Togethed İçin toplantıda belirlenen ürün iş listesi şu şekildedir.
 - **Araştırma Görevleri** Bu görevler ekip tarafından araştırılması beklenilen görevlerdir. Süreç içinde yeni bir bilgi ihtiyacı olduğu taktirde burada yeni görevler oluşturulacaktır.
   - Endistüriyel sektörlerin araştırılması (Hangi alanda uygulama yapılacağını seçmek adına yapılan araştırma görevidir.) (4p @all)
@@ -79,7 +79,7 @@ Splint 1 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Bu toplantıda ürün iş listesinin eğitim, araştırma, marka, iş planı ve user flow görevlerini alarak takım koordinasyonuna yoğunlaşmaya karar verdik. Gelecek haftalara kod ve tasarım yükü artmış olsa da eğitim ve oryantasyon olmadan bu konulara giriş yapmama kararı uygun görüldü. Ayrıca bu zaman diliminin oryantasyon ve fikir üzerine geçmesi gelecek haftalardaki çalışma hızını artıracaktır. Ayrıca bayram tatili nedeniyle görevlerin kesik devamı engellenecektir.
   #### **📜Splint İş Listesi**
-[Trello Panomuz](https://trello.com/invite/b/nVWdZZfo/61da17e4d8191d2e0e5850e91b0970c9/splint-1)
+(Trello Panomuz)[https://trello.com/invite/b/nVWdZZfo/61da17e4d8191d2e0e5850e91b0970c9/splint-1]
  Toplam Puan: Trello panomuzda da görüldüğü üzere 75 olarak belirlenmiştir. Bu hafta çalışmaların çoğu ekibin tüm üyelerini kapsamıştır. Bu sebeple tüm üyeler için eşdeğer miktarda süreye mal olmuştur. Ek olarak görev sorumluları görevlerin yanında belirtilmiştir. Puanlamalar saat cinsindendir. Bahsi geçen görevin hazırlığı ve brainstorm aşamalarını da kapsar.
  - Boot Görevleri (25p @all)
  - Marka Tasarımı (15p @all @sude)
