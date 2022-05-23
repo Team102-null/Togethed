@@ -128,7 +128,6 @@ Review toplantısında üretilen değerin yeni bir marka ve pazarlama planı old
   - Görevler tek koldan yürümemeli
   - İterasyon döngüsü güçlendirilmeli
   #### **Splint Sonu**
-  --------------------------------
 --------------------------------
 ### **🏁Splint 2🏁**
 Splint 2 boyunca neler oldu?
@@ -136,8 +135,6 @@ Splint 2 boyunca neler oldu?
 Kodlama ile ilgili kaygılarımız hakkında konuştuk. Toplantıda hafta boyunca yapacağımız işleri belirledik. Ancak backend kodlama konusuna hakim olmadığımız için bu işleri 3. splinte bırakma kararı aldık.
   #### **📜Splint İş Listesi**
   ![Sprint 2 Görsel](https://user-images.githubusercontent.com/101826260/169890350-9cb37bdf-7b6d-4d9b-89b5-43fd02c7429e.PNG)
-
-)
 
 [Trello Panomuz](https://trello.com/invite/b/vbS7PVly/afacdd3099c4c4c9fb80e2fffc8b878f/splint-2-120-puan)
  Toplam Puan 120:
@@ -181,4 +178,4 @@ Front end kodlama için teknik sorunların çözülmesi gerekiyor. Bunun için f
   - Ekip için çalışma saatleri düzenlenebilir
   - İletişimi güçlendirebiliriz
   #### **Splint Sonu**
-  --------------------------------
+--------------------------------
