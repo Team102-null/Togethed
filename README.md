@@ -133,7 +133,7 @@ Review toplantısında üretilen değerin yeni bir marka ve pazarlama planı old
 ### **🏁Splint 2🏁**
 Splint 2 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
-
+Kodlama ile ilgili kaygılarımız hakkında konuştuk. Toplantıda hafta boyunca yapacağımız işleri belirledik. Ancak backend kodlama konusuna hakim olmadığımız için bu işleri 3. splinte bırakma kararı aldık.
   #### **📜Splint İş Listesi**
   ![Sprint 2 Görsel](https://user-images.githubusercontent.com/101826260/169890350-9cb37bdf-7b6d-4d9b-89b5-43fd02c7429e.PNG)
 
