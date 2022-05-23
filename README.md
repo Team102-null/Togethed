@@ -158,7 +158,8 @@ Toplam puanlar:
 **GÖREV TAMAMLANDI** Uygulamanın frontend kısmına dair çalışmalar yapıldı. Nesneler responsive şekilde belirlendi.
 
 #### **📅Daily Scrum**
-Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada]() mevcut.
+Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada](https://github.com/Team102-null/Togethed/files/8758016/Splint.2.pdf)
+ mevcut.
 #### **📏Splint Review**
 Front end kodlama için teknik sorunların çözülmesi gerekiyor. Bunun için figmayı etkin kullanmamız gerekiyor. 
 #### **⚖️Retrospektif Toplantısı**
