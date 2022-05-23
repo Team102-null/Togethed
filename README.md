@@ -141,16 +141,16 @@ Kodlama ile ilgili kaygılarımız hakkında konuştuk. Toplantıda hafta boyunc
 
 [Trello Panomuz](https://trello.com/invite/b/vbS7PVly/afacdd3099c4c4c9fb80e2fffc8b878f/splint-2-120-puan)
  Toplam Puan 120:
-Prototip: 40 puan (7p@sude 10p@sena 8p@hüsna 10p@beyza 5p@yücel)
-Prototip Testi: 20 puan (4p@sude 4p@sena 4p@hüsna 4p@beyza 4p@yücel)
-Flutter Backend: 60 puan (8@sude 12@sena 13@hüsna 7@beyza 20@yücel)
+- Prototip: 40 puan (7p@sude 10p@sena 8p@hüsna 10p@beyza 5p@yücel)
+- Prototip Testi: 20 puan (4p@sude 4p@sena 4p@hüsna 4p@beyza 4p@yücel)
+- Flutter Backend: 60 puan (8@sude 12@sena 13@hüsna 7@beyza 20@yücel)
 
 Toplam puanlar:
-Sude:19p
-Sena:26p
-Hüsna:25p
-Beyza:21p
-Yücel:29p
+- Sude:19p
+- Sena:26p
+- Hüsna:25p
+- Beyza:21p
+- Yücel:29p
 
   #### **✅Definition of Done Teslim Tarihi 23.05.2022 23:59**
 - ✅Prototip Tamamlandı <br/>
