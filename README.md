@@ -155,14 +155,22 @@ Splint 2 boyunca neler oldu?
 #### **📅Daily Scrum**
 Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada]() mevcut.
 #### **📏Splint Review**
-
+Front end kodlama için teknik sorunların çözülmesi gerekiyor. Bunun için figmayı etkin kullanmamız gerekiyor. 
 #### **⚖️Retrospektif Toplantısı**
   Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
 - ##### **Neler İyi Gitti**
-  - 
+  - Ekip koordinasyonu verimliydi
+  - Zaman yönetimi daha iyiydi
+  - Hata çözüm döngüsü güçlendi
 - ##### **Neler Kötü Gitti**
-  - 
+  - Zaman daha azdı
+  - Entegrasyon sorunu yaşadık
+  - Süreç çok karmaşıktı
+  - Hata alma oranı arttı
+  - Kodlama gerektiren işlere dair kaygımız arttı
 - ##### **Neler Geliştirilebilir**
-  - 
+  - Ürün iş listesi daha iyi hazırlanabilir
+  - Ekip için çalışma saatleri düzenlenebilir
+  - İletişimi güçlendirebiliriz
   #### **Splint Sonu**
   --------------------------------
