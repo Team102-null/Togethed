@@ -129,3 +129,40 @@ Review toplantısında üretilen değerin yeni bir marka ve pazarlama planı old
   - İterasyon döngüsü güçlendirilmeli
   #### **Splint Sonu**
   --------------------------------
+--------------------------------
+### **🏁Splint 2🏁**
+Splint 2 boyunca neler oldu?
+  #### **🤝🏻Splint Planlama Toplantısı**
+
+  #### **📜Splint İş Listesi**
+  ![Sprint 2 Görsel](https://user-images.githubusercontent.com/101826260/169890350-9cb37bdf-7b6d-4d9b-89b5-43fd02c7429e.PNG)
+
+)
+
+[Trello Panomuz](https://trello.com/invite/b/vbS7PVly/afacdd3099c4c4c9fb80e2fffc8b878f/splint-2-120-puan)
+ Toplam Puan 120:
+
+
+
+  #### **✅Definition of Done Teslim Tarihi 23.05.2022 23:59**
+- ✅Prototip Tamamlandı <br/>
+**GÖREV TAMAMLANDI** Uygulamanı görsel bir prototipi yapıldı. Bu kısımdaki ekran bağlantıları tamamlandı ve kullanılacak widget ağaçları tartışıldı.
+- ✅Prototip Kullanıcı Testi Yapıldı <br/> 
+**GÖREV TAMAMLANDI** 10 Kullanıcı prototip üzerinde test gerçekleştirdi. Kullanıcıların yorumlarına göre eklemeler ve çıkarmalar yapıldı. UX optimizasyonu sağlandı.
+- ✅Flutter Frontend Görevleri Tamamlandı <br/>
+**GÖREV TAMAMLANDI** Uygulamanın frontend kısmına dair çalışmalar yapıldı. Nesneler responsive şekilde belirlendi.
+
+#### **📅Daily Scrum**
+Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada]() mevcut.
+#### **📏Splint Review**
+
+#### **⚖️Retrospektif Toplantısı**
+  Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
+- ##### **Neler İyi Gitti**
+  - 
+- ##### **Neler Kötü Gitti**
+  - 
+- ##### **Neler Geliştirilebilir**
+  - 
+  #### **Splint Sonu**
+  --------------------------------
