@@ -130,6 +130,8 @@ Review toplantısında üretilen değerin yeni bir marka ve pazarlama planı old
   #### **Splint Sonu**
 --------------------------------
 ### **🏁Splint 2🏁**
+![image](https://user-images.githubusercontent.com/101826260/172211501-2306b7d6-ecff-42ae-8093-89442ece47fa.png)
+
 Splint 2 boyunca neler oldu?
   #### **🤝🏻Splint Planlama Toplantısı**
 Kodlama ile ilgili kaygılarımız hakkında konuştuk. Toplantıda hafta boyunca yapacağımız işleri belirledik. Ancak backend kodlama konusuna hakim olmadığımız için bu işleri 3. splinte bırakma kararı aldık.
@@ -140,7 +142,7 @@ Kodlama ile ilgili kaygılarımız hakkında konuştuk. Toplantıda hafta boyunc
  Toplam Puan 120:
 - Prototip: 40 puan (7p@sude 10p@sena 8p@hüsna 10p@beyza 5p@yücel)
 - Prototip Testi: 20 puan (4p@sude 4p@sena 4p@hüsna 4p@beyza 4p@yücel)
-- Flutter Backend: 60 puan (8@sude 12@sena 13@hüsna 7@beyza 20@yücel)
+- Flutter FrontEnd: 60 puan (8@sude 12@sena 13@hüsna 7@beyza 20@yücel)
 
 Toplam puanlar:
 - Sude:19p
@@ -178,5 +180,55 @@ Front end kodlama için teknik sorunların çözülmesi gerekiyor. Bunun için f
   - Ürün iş listesi daha iyi hazırlanabilir
   - Ekip için çalışma saatleri düzenlenebilir
   - İletişimi güçlendirebiliriz
+  #### **Splint Sonu**
+--------------------------------
+### **🏁Splint 3🏁**
+![image](https://user-images.githubusercontent.com/101826260/172211579-b8ec1756-5393-491a-ab1d-492d730f0e91.png)
+
+Splint 3 boyunca neler oldu?
+  #### **🤝🏻Splint Planlama Toplantısı**
+FlutterFlowda uygulamamızı geliştirmeye devam ettik.
+  #### **📜Splint İş Listesi**
+  ![image](https://user-images.githubusercontent.com/101826260/172217347-01037564-e5fe-4eee-8380-768b964f367a.png)
+
+
+
+ Toplam Puan 185:
+- Flutter Testi: 85 puan (15p@sude 20p@sena 15p@hüsna 10p@beyza 25p@yücel)
+- Flutter Backend: 100 puan (20@sude 20@sena 20@hüsna 20@beyza 20@yücel)
+
+Toplam puanlar:
+- Sude:35p
+- Sena:40p
+- Hüsna:35p
+- Beyza:30p
+- Yücel:45p
+
+  #### **✅Definition of Done Teslim Tarihi 23.05.2022 23:59**
+- ❌Flutter Backend Tamamlanamadı <br/>
+**GÖREV TAMAMLANMADI** 
+- ❌Flutter Testi <br/>
+**GÖREV TAMAMLANMADI** 
+
+#### **📅Daily Scrum**
+Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada]()
+ mevcut.
+#### **📏Splint Review**
+FlutterFlowa geçiş yaptık sorun yaşayarak 2 gün erkene alınan teslim tarihlerini kaçırdık. Uygulama ile ilgili süreçleri 8ine kadar sürdürmeye devam edeceğiz.
+#### **⚖️Retrospektif Toplantısı**
+  Toplantı online bir panoda yapıldı alınan cevaplar şunlardı:
+- ##### **Neler İyi Gitti**
+  - FlutterFlow ile yapabileceklerimizin sonsuz olduğunu ve işi ne kadar kolayşatırdığını öğrendik.
+  - Daha az motivasyon kaybettik
+  - İkili iletişimler güçlendi
+- ##### **Neler Kötü Gitti**
+  - Hiçbir bütçeye sahip olamadığımız için API kullanamadık
+  - Bütçeye sahip olmadığımız için FlutterFlow premium sürümünü alamadık
+  - FlutterFlow eğitim sürümünün gelmesi 14 gün sürdü
+  - Teslim tarihi normalden 2 gün erkene çekildi
+- ##### **Neler Geliştirilebilir**
+  - FlutterFlowu kullanmaya daha önce başlasaydık en iyi uygulamayı yapabilirdik.
+  - Ekip iş saatleri fazla sıkıydı daha esnek ve verimli olarak düzenlenebilirdi.
+  - Ekip üyelerinin kodlamaya olan korkusu kırılabilirdi.
   #### **Splint Sonu**
 --------------------------------
