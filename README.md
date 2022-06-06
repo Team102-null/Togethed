@@ -211,7 +211,7 @@ Toplam puanlar:
 **GÖREV TAMAMLANMADI** 
 
 #### **📅Daily Scrum**
-Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada]()
+Biz toplantılarımızı sesli olarak discord kanalımızda gerçekleştirdik. Süre kısıtı için timer kullandık ve 15 dakikalık toplantı süresine entegre olduk. Discord kanalımız ve konuşmalarımızın özetleri [burada](https://1drv.ms/w/s!AqWyhvXnBNoigT69uqbbB9mUXk_1?e=ZHFIva)
  mevcut.
 #### **📏Splint Review**
 FlutterFlowa geçiş yaptık sorun yaşayarak 2 gün erkene alınan teslim tarihlerini kaçırdık. Uygulama ile ilgili süreçleri 8ine kadar sürdürmeye devam edeceğiz.
